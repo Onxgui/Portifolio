@@ -147,7 +147,7 @@ section.introducao{
 @media screen and (max-width: 900px) {
   .menu {
     flex-direction: column;
-    gap: 5px
+    gap: 5px;
   }
 
   .cnt-image {
@@ -168,12 +168,12 @@ section.introducao{
   @media screen and (max-width: 600px) {
  
     .header-container{
-      padding: 0 40px
+      padding: 0 40px;
     }
     
     .menu {
     flex-direction: column;
-    gap: 5px
+    gap: 5px;
   }
 
   main.conteudo{
