@@ -187,6 +187,11 @@ body {
 }
 
 @media screen and (max-width: 600px) {
+
+  .header-container{
+      padding: 0 40px
+    }
+  
   .menu {
     flex-direction: column;
     gap: 5px
