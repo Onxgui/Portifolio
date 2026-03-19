@@ -167,7 +167,7 @@ body {
 @media screen and (max-width: 800px) {
   .menu {
     flex-direction: column;
-    gap: 5px
+    gap: 5px;
   }
 
   .projects{
@@ -189,12 +189,12 @@ body {
 @media screen and (max-width: 600px) {
 
   .header-container{
-      padding: 0 40px
+      padding: 0 40px;
     }
   
   .menu {
     flex-direction: column;
-    gap: 5px
+    gap: 5px;
   }
 
   .cnt-image {
